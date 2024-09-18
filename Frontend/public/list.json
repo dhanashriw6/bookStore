@@ -1,0 +1,82 @@
+[
+  {
+      "id": 1,
+      "name": "Book One",
+      "title": "Introduction to Programming",
+      "price": 29.99,
+      "category": "Technology",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  },
+  {
+      "id": 2,
+      "name": "Book Two",
+      "title": "Advanced JavaScript",
+      "price": 0,
+      "category": "Technology",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  },
+  {
+      "id": 3,
+      "name": "Book Three",
+      "title": "Learning Python",
+      "price": 19.99,
+      "category": "Technology",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  },
+  {
+      "id": 4,
+      "name": "Book Four",
+      "title": "The Great Gatsby",
+      "price": 10.99,
+      "category": "Classic Literature",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  },
+  {
+      "id": 5,
+      "name": "Book Five",
+      "title": "1984",
+      "price": 0,
+      "category": "Classic Literature",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  },
+  {
+      "id": 6,
+      "name": "Book Six",
+      "title": "The Catcher in the Rye",
+      "price": 12.50,
+      "category": "Classic Literature",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  },
+  {
+      "id": 7,
+      "name": "Book Seven",
+      "title": "The Power of Habit",
+      "price": 15.99,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  },
+  {
+      "id": 8,
+      "name": "Book Eight",
+      "title": "Atomic Habits",
+      "price": 25.00,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  },
+  {
+      "id": 9,
+      "name": "Book Nine",
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": 20.00,
+      "category": "Non-Fiction",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  },
+  {
+      "id": 10,
+      "name": "Book Ten",
+      "title": "Educated",
+      "price": 18.99,
+      "category": "Non-Fiction",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726650906~exp=1726654506~hmac=9d3ee79b407508a39cc02ac932e8b3e22ad3fa8bf5f17e3f6a7c204c22415df9&w=740"
+  }
+]
